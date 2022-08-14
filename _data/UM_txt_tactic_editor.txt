@@ -1,0 +1,22 @@
+# TACTIC EDITOR USER GUIDE #
+
+It's possible to customize tactics.
+There are 10 tactic slot available.
+
+For each of the 36 ball positions
+there are 256 player's positions along the playfield.
+
+    Arrow keys.....move the ball along the playfield,
+    Mouse wheel....select a player,
+    Mouse click....select a player position
+    Key from 0-9...select a tactic slot to edit.
+    CTRL + C.......Copy the whole team position
+    CTRL + V.......Paste the whole team position
+    S..............Save current Tactic slot
+    A..............Save all Tactic slot
+    ESC............Back to main menu
+    
+Tactic name is not editable yet.
+
+------------------------------------------
+*** PRESS F1 AGAIN TO CLOSE THIS GUIDE ***
